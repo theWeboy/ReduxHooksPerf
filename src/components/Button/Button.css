@@ -1,0 +1,21 @@
+.btn {
+  margin: 0 5px;
+  padding: 9px;
+  cursor: pointer;
+  border-radius: 4px;
+  min-width: 150px;
+  background-color: rgb(236, 209, 192);
+}
+
+.btn:focus {
+  text-decoration: none;
+  outline: 0;
+}
+
+.btn:hover {
+  background-color: rgb(238, 194, 169);
+}
+
+.btn:active {
+  background-color: rgb(238, 194, 169);
+}
